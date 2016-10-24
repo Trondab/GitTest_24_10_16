@@ -12,3 +12,10 @@ public class GitTest_24_10_16 {
     }
     
 }
+class Git{
+    private int number;
+    
+    Git(int number){
+        this.number = number;
+    }
+}
