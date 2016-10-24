@@ -12,16 +12,6 @@ public class GitTest_24_10_16 {
 
 }
 
-class git {
-
-    private int number;
-    private String text;
-
-    Git(int number, String text) {
-        this number = number;
-        this.text = text;
-    }
-}
 class Git{
     private int number;
     
